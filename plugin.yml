@@ -1,0 +1,10 @@
+name: Trees
+version: 1.0.0
+api: 3.0.0
+main: Trees\Loader
+description: A plugin which prevents trees to grow on walls or roads of a plot level. Requires GrowEvent plugin by Kevims
+authors:
+  - Kevims
+depend:
+  - MyPlot
+  - GrowEvent
